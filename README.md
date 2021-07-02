@@ -6,7 +6,7 @@ Fast One-time pad for all files up to 1MB.
 
 
 
-[Auditing in the browser?](https://coliru.stacked-crooked.com/a/26a8dbf7cf86a4ea)
+[Auditing in the browser?](https://coliru.stacked-crooked.com/a/f6d055295bdcb247)
 
 <p align="center">
   <img src="https://github.com/compromise-evident/schemeOTP/blob/main/Other/Terminal.png">
